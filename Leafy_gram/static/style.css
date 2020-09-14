@@ -1,0 +1,13 @@
+body {
+    background: white;
+}
+
+.nav {
+    border-radius: 0px;
+    padding: 6px 0 6px 0;
+    background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4,#C13584,#E1306C,#FD1D1D);
+}
+
+.mb-1 {
+     margin-bottom: 6px;
+}
