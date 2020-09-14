@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'jquery',
     'profiles',
     'posts',
+    
 ]
 
 MIDDLEWARE = [
